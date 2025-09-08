@@ -1,13 +1,12 @@
 
 # Tune-wave
 
-Tune-wave is a music-related project designed to [briefly describe what your project does, e.g., "help users discover new music and manage playlists easily"].
+Tune-wave is a music-related project designed to "help users discover new music and manage playlists easily"
 
 ## Features
 
 - Discover new music
 - Create and manage playlists
-- [Add more features as needed]
 
 ## Installation
 
@@ -36,8 +35,3 @@ npm start
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
-
-## Contact
-
-For questions or feedback, contact [your-email@example.com].
